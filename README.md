@@ -1,2 +1,2 @@
-# vkscript
-# vk delete posts
+# Delete all  users posts in vk.com 
+
