@@ -1,0 +1,2 @@
+# vkscript
+# vk delete posts
